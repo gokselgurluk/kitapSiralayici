@@ -1,7 +1,7 @@
 Kitap Sıralayıcı
 
 
-Book isminde bir sınıf tasarlayınız. Bu sınıf Comparable interface'den kalıtım alıp "compareTo" metodunu override ediniz. Bu metodun içinde kitabı A'dan Z'ye isme göre sıralayan kodu yazınız. Bu sınıftan 5 tane nesne oluşturun ve nesneleri Set tipinde bir yapısında saklayınız. Sonra ikinci kez Set tipinden bir veri yapısı kullanın ve kitapları sayfa sayısına göre sıralamasını sağlayınız.
+Book isminde bir sınıf tasarladık. Bu sınıf Comparable interface'den kalıtım alıp "compareTo" metodunu override ettik. Bu metodun içinde kitabı A'dan Z'ye isme göre sıralayan kodu yazdık. Bu sınıftan 5 tane nesne oluşturduk ve nesneleri Set tipinde bir yapısında sakladık. Sonra ikinci kez Set tipinden bir veri yapısı kullandık ve kitapları sayfa sayısına göre sıralamasını sağladık.
 
 
 
